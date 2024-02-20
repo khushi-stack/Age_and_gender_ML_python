@@ -1,11 +1,11 @@
 # Age_and_gender_detection_using_deep_learning
 
 ## DEEP LEARNING: 
-   Deep learning is a subset of AI 
+   Deep learning is a subset of AI. A method in artificial intelligence (AI) that teaches computers to process data in a way that is inspired by the human brain.
 
 ## MACHINE LEARNING:
   We see some mathematical algorithms in machine learning , we train machine using data how to interpolate into future through the data.
-  for example, we have features of dog and features of cat, if we have givven only the features to the algorithm , then it can say the input is a dog or a cat.
+  For example, we have features of dog and features of cat, if we have givven only the features to the algorithm , then it can say the input is a dog or a cat.
   We can do classification , regression, prediction etc,
   for example , if we take example of house prediction, if we have data of several houses(number of rooms, no. of bedrooms, size of the room) 
                 suddenly, if we get a new set of features , we can use the previous data to train the model and our model can detect new price of the new house.
